@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "hotelManage",
+    "packageName": "com.hotel",
+    "packageFolder": "com/hotel",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "03db6ce7062196eddb38497608986534eb295814",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
